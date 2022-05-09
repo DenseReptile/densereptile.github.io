@@ -1,0 +1,23 @@
+{
+	"tabWidth": 2,
+	"useTabs": false,
+	"semi": true,
+	"singleQuote": false,
+	"trailingComma": "all",
+	"bracketSameLine": false,
+	"arrowParens": "always",
+	"overrides": [
+		{
+			"files": "*.svelte",
+			"options": {
+				"printWidth": 100
+			}
+		},
+		{
+			"files": ["*.js", "*.ts"],
+			"options": {
+				"printWidth": 80
+			}
+		}
+	]
+}
