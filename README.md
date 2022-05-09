@@ -1,3 +1,1 @@
-# Rapide
-
-Yet another SvelteKit template. (`WIP`)
+# wip
