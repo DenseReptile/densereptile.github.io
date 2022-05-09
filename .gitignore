@@ -10,4 +10,3 @@ pnpm-lock.yaml
 
 #! Exclude
 !.env.example
-!.svelte-kit/tsconfig.json
