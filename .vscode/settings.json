@@ -1,0 +1,33 @@
+{
+  // ? Language Settings
+  "[svelte]": {
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  // ? On Save Actions
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // ? IDE Settings
+  "editor.formatOnSave": true,
+  "prettier.enable": true,
+}

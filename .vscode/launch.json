@@ -21,7 +21,7 @@
             "name": "Preview Website",
             "request": "launch",
             "runtimeArgs": [
-                "serve",
+                "preview:serve"
             ],
             "runtimeExecutable": "pnpm",
             "skipFiles": [
